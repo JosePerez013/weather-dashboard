@@ -38,6 +38,22 @@ button {
     transition: all 0.2s;
 }
 
+#searchedCities li {
+    display: inline-block;
+    background-color: #2980B9;
+    color: #F4F6F6;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+#searchedCities li:hover {
+    background-color: #3498DB;
+    transform: translateY(-2px);
+}
+
 button:hover {
     background-color: #3498DB;
     transform: translateY(-2px);
