@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(57, 57, 68);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    text-decoration: underline;
+    color: white;
+}
+
+form {
+    background-color: #8a75e7;
+    padding: 20px;
+    margin: 10px;
+}
+
+input[type="submit"]:hover {
+    background-color: #8a75e7;
+}
+
+#searchedCities {
+    padding: 10px;
+    margin: 20px;
+    background-color: #8a75e7;
+}
+
+#searchedCities li {
+    background-color: rgb(53, 54, 129);
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#searchedCities li:hover {
+    background-color: #352a68;
+
+}
+
+.weather-box {
+    background-color: #FFB6C1;
+    color: blue;
+    padding: 10px;
+    margin: 10px auto;
+    width: 50%;
+}
+
+.weather-icon {
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
