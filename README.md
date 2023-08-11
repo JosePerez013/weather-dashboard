@@ -8,7 +8,7 @@
 
 ## Installation
 
-No installation is needed. Just visit the [live site](). 
+No installation is needed. Just visit the [live site](https://joseperez013.github.io/weather-dashboard/). 
 
 ## Usage
 
